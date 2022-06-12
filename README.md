@@ -19,6 +19,6 @@ Join us and jump in!
 
 ## Social media
 
-- http://www.facebook.com/warwickswim
-- http://www.twitter.com/uwswp
-- https://www.instagram.com/uwswp
+- <http://www.facebook.com/warwickswim>
+- <http://www.twitter.com/uwswp>
+- <https://www.instagram.com/uwswp>
