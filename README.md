@@ -22,3 +22,12 @@ Join us and jump in!
 - <http://www.facebook.com/warwickswim>
 - <http://www.twitter.com/uwswp>
 - <https://www.instagram.com/uwswp>
+
+---
+
+<small>
+  © 2022
+  <center><a href="https://www.google.com/maps/place/Sports+and+Wellness+Hub/@52.3775057,-1.5724216,17z/data=!3m1!4b1!4m5!3m4!1s0x48774b94cf2bfa79:0xdcfc3b01eb15b2ff!8m2!3d52.3775057!4d-1.5702329">University of Warwick, Coventry, United Kingdom</a></center>
+
+  <center><img height="42px" src="https://user-images.githubusercontent.com/18099289/173231137-4c6571ec-7d06-4629-9615-1ec86c1293de.png"></center>
+</small>
