@@ -1,3 +1,0 @@
----
-title: "Sports Clubs"
----
