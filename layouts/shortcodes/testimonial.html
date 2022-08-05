@@ -1,0 +1,27 @@
+<section class="hero has-background-light testimonial">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <p class="subtitle">
+        <span class="font-bold has-text-link is-size-5">&#8220; </span>{{ .Get
+        "message" }}<span class="font-bold has-text-link is-size-5">
+          &#8221;</span
+        >
+      </p>
+      <div class="is-flex is-align-items-center is-justify-content-start mt-4">
+        <a href="#" class="image is-48x48">
+          <img alt="profil" src='{{ .Get "img" }}' class="is-rounded" />
+        </a>
+        <div
+          class="is-flex is-flex-direction-column ml-2 is-align-content-space-between"
+        >
+          <span class="font-semibold has-text-weight-bold">
+            {{ .Get "name" }}
+          </span>
+          <span class="is-size-7 is-flex is-align-items-center has-text-link">
+            {{ .Get "squad" }}
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

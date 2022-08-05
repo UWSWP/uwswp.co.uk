@@ -1,0 +1,11 @@
+baseURL = 'https://www.uwswp.co.uk/'
+languageCode = 'en-GB'
+title = 'University of Warwick Swimming & Water Polo Club'
+
+[params]
+    number_of_active_members = 198
+    # --------------------------- SOCIAL MEDIA -------------------------------------
+    # You can put the usernames of all the society's socials here
+    twitter_username = 'uwswp'
+    instagram_username = 'uwswp'
+    facebook_username = 'WarwickSwim'

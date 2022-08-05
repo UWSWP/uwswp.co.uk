@@ -1,0 +1,65 @@
+<footer class="footer">
+  <div class="content container is-max-desktop">
+    <div class="columns">
+      <div class="column bottom">
+        <img
+          src="https://static.wixstatic.com/media/c0df4b_32126b232f97451088c4e8552c9977e8.png/v1/fill/w_352,h_40,al_c,q_85,usm_0.66_1.00_0.01/c0df4b_32126b232f97451088c4e8552c9977e8.webp"
+          alt=""
+        />
+        <p>
+          © {{ now.Format "2006"}} UWSWP<br />
+          © {{ now.Format "2006"}} Graphics by <br />
+          Deandra Djunaedi
+        </p>
+      </div>
+      <div class="column">
+        <b>Links</b>
+        <ul>
+          <li><a href="/"> Home </a></li>
+          <li><a href="/about"> About us </a></li>
+          <li><a href="/exec"> Meet the exec </a></li>
+          <li><a href="/freshers"> Freshers </a></li>
+          <li><a href="/swimming"> Swimming </a></li>
+          <li><a href="/water-polo"> Water Polo </a></li>
+          <li><a href="/welfare"> Welfare </a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <b>More</b>
+        <ul>
+          <li><a href="/socials"> Socials </a></li>
+          <li><a href="/charity"> Charity </a></li>
+          <li><a href="/sponsor"> Sponsorship </a></li>
+          <li><a href="/images"> Images </a></li>
+          <li><a href="/news"> News & Events </a></li>
+          <li><a href="/contact">Contact Us</a></li>
+          <li><a href="/join">Buy Sports Membership</a></li>
+        </ul>
+      </div>
+      <div class="column">
+        <b>Social media</b>
+        <ul>
+          <li>
+            <a
+              href="https://www.facebook.com/groups/{{ .Site.Params.facebook_username }}"
+            >
+              Facebook
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://instagram.com/{{ .Site.Params.instagram_username }}"
+            >
+              Instagram
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/{{ .Site.Params.twitter_username }}">
+              Twitter
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
