@@ -75,4 +75,8 @@ hot dinners this winter.
 
 Sunt labore duis aliqua culpa sunt reprehenderit ut deserunt dolore. Irure non laboris consectetur qui minim incididunt aute dolor consequat sint ipsum minim minim. Labore eiusmod Lorem eiusmod eu labore ex incididunt.
 
+## Frequently asked questions
+
+{{< partial "faq/swimming" >}}
+
 {{< partial "buy" >}}

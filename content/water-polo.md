@@ -50,4 +50,8 @@ We look forward to seeing you in the pool!
 
 Aliqua esse ipsum eiusmod labore veniam id occaecat reprehenderit nulla non et nulla. Sit duis et qui mollit dolor quis do proident aliqua fugiat commodo non adipisicing enim. Duis voluptate ad labore labore magna nulla irure labore. Excepteur qui do qui laborum excepteur ut esse ullamco nostrud ex voluptate in amet culpa. Culpa do sunt dolore ea. In reprehenderit duis dolore anim nostrud aute voluptate. Ullamco anim esse laboris est fugiat do Lorem eiusmod et sunt eu.
 
+## Frequently asked questions
+
+{{< partial "faq/water-polo" >}}
+
 {{< partial "buy" >}}
