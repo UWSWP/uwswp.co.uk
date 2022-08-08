@@ -40,7 +40,7 @@ We look forward to seeing you in the pool!
 
 ---
 
-{{< testimonial name="Riley" message="I joined women’s waterpolo on a whim and I could not be more thankful for the great friendships I have made here! My advice to incoming freshers is to show up and you will surprise yourself! The great thing about women’s waterpolo is all skill levels are welcome and you have the ability to learn so much. I came to the UK not knowing a single person and I am so happy I took the chance to try waterpolo and make Warwick feel like home ❤" squad="Women's Water Polo Member" img="https://user-images.githubusercontent.com/18099289/181925202-139881c5-f22b-4569-8abf-b41cdb83ef82.png" >}}
+{{< testimonial name="Riley" message="I joined women’s waterpolo on a whim and I could not be more thankful for the great friendships I have made here! My advice to incoming freshers is to show up and you will surprise yourself! The great thing about women’s waterpolo is all skill levels are welcome and you have the ability to learn so much. I came to the UK not knowing a single person and I am so happy I took the chance to try waterpolo and make Warwick feel like home ❤" squad="Women's Water Polo Member" img="https://user-images.githubusercontent.com/18099289/183516376-c214b25b-e821-4bf1-8881-dce1b688a966.png" >}}
 
 ---
 
