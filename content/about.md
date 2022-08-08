@@ -30,77 +30,45 @@ This year's exec is a wonderful bunch of enthusiastic, not to mention good looki
 
 So, if you ever have any questions, would like some advice, or just a general chat, they are here to help! Below is an outline of all of the positions and those who are filling them this year, as well as links to their Facebook pages. Enjoy!
 
-### Adam Evens (Swimming President)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Freya Slaney-Parker (Water Polo President)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Jack Turrell (Men's Swimming Captain)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Alyssa Basinger (Women's Swimming Captain)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Ollie Smith-Machancoses (Development Officer)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Team Junior (Men's Water Polo Captain)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Abi Taylor (Women's Water Polo Captain)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Cameron Mackinnon (Social Sec #1)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### She Junior (Social Sec #2)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Victor Benazech (Treasurer)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Sacha Clark-Jones (Secretary)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Chloe Plater (Charity & Welfare)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
-
-### Charlotte Malpass (Pubs & Coms)
-
-Labore exercitation laboris nostrud quis. Irure deserunt adipisicing aliqua aliqua consectetur anim sit mollit. Id ut excepteur mollit sunt ullamco non officia do et dolor exercitation ipsum exercitation proident. Est consectetur adipisicing amet in cupidatat excepteur.
+- Adam Evens (Swimming President)
+- Freya Slaney-Parker (Water Polo President)
+- Jack Turrell (Men's Swimming Captain)
+- Alyssa Basinger (Women's Swimming Captain)
+- Ollie Smith-Machancoses (Development Officer)
+- Team Junior (Men's Water Polo Captain)
+- Abi Taylor (Women's Water Polo Captain)
+- Cameron Mackinnon (Social Sec #1)
+- She Junior (Social Sec #2)
+- Victor Benazech (Treasurer)
+- Sacha Clark-Jones (Secretary)
+- Chloe Plater (Charity & Welfare)
+- Charlotte Malpass (Pubs & Coms)
 
 ---
 
 ## Sport scholarships
 
-Our scholarships enable student-athletes to excel in their sport and in their academics. The application window for 2022/23 opens on **Friday 19th of August**:
+Warwick Sports scholarships enable student-athletes to excel in their sport and in their academics.
+
+The application window for 2022/23 opens on **Friday, August 19th**:
 
 > We are thrilled to be inviting swimming scholarship applications for national and international students. Granting numerous opportunities for you to pursue your interest in WUFF whilst maintaining your dual academic and sporting careers during your time at university. More information on the criteria can be found below:
 >
-> - Scholarship service
-> - Criteria:
->   - To be eligible for the program athletes are required to meet the minimum criteria;
+> To be eligible for the program athletes are required to meet the minimum criteria as stated on the Warwick Sport website;
+>
+> - Available for individuals competing for their county or country.
+> - Awarded on an annual basis at the discretion of a panel.
+> - Undergraduates, current students, and postgraduates are welcome to apply.
+> - Open to both national and international students.
+> - Your Sport must include a Sport England recognised governing body to be considered.
 >
 > [Application form (link)](#)
 >
-> If you have any further questions, please contact <performancesport@warwick.ac.uk>.
->
 > Further information:
 >
-> - Support Services
+> - [Scholarships services](https://warwick.ac.uk/services/sport/active/students-staff/teamwarwick/performance/scholarships/services)
+>
+> If you have any further questions, please contact <performancesport@warwick.ac.uk>.
 
 ---
 
@@ -110,8 +78,11 @@ We are delighted to be awarded _Silver Performance Sport_ here at Warwick Univer
 
 ### Silver-tiered pathway
 
-- Generic strength and conditioning programme based on the needs of the sport
-- Physiotherapy, nutrition and psychology support
-- Year long support and development (preseason, in-season, with a generic offseason programme)
-- Financial contribution to go towards high level coaching
-- Ongoing mentorship and guidance from performance team
+We are delighted to be awarded Silver Performance Sport here at Warwick University. Offering an environment where teams and individuals endure outstanding accomplishments as WarwickSports aids in our further development into high-performing student-athletes to maximise our student sporting experience.
+
+- Silver Tiered Pathway (WarwickSports, 2022)
+  - Generic strength and conditioning programme based on the needs of the sport
+  - Physiotherapy, nutrition and psychology support
+  - Year long support and development (preseason, in-season, with a generic offseason programme)
+  - Financial contribution to go towards high level coaching
+  - Ongoing mentorship and guidance from performance team
