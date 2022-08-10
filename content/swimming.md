@@ -54,7 +54,7 @@ term 1, BUCS Long Course in term 2, and BUCS Teams in term 3.
 
 ![BUCS Short Course 2021 team](https://user-images.githubusercontent.com/18099289/181918377-88f3712a-7672-4840-b201-0b725bd75826.jpeg)
 
-{{< testimonial name="James LG" message="WUFF sessions are really flexible and interesting compared to most programs, so you can really get whatever you want out of the club." squad="Competitive Squad Member & British Swimming Championships Athlete (2022)" img="https://user-images.githubusercontent.com/18099289/181920564-192662b8-f380-4ec7-b191-3786c9a39493.png" >}}
+{{< testimonial name="James LG" message="WUFF sessions are really flexible and interesting compared to most programs, so you can really get whatever you want out of the club." squad="Competitive Squad Member & British Swimming Championships Athlete (2022)" img="https://user-images.githubusercontent.com/18099289/183985793-8b56bda5-0467-4a41-a6e4-2d3f31bfbbf9.png" >}}
 
 ---
 
