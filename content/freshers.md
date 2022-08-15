@@ -3,6 +3,23 @@ title: Freshers
 subtitle: Congratulations on earning a place at Warwick!
 ---
 
+![](https://user-images.githubusercontent.com/18099289/184671824-af9cc3de-912c-401a-83df-e22e74e4f965.png)
+
+**Congratulations to all freshers receiving their A-level results and
+acceptance into Warwick!** If you are looking for the complete university
+experience come join Swimming and Water Polo! We welcome everyone with
+all abilities and offer an amazing mix of training and socials. Super
+thrilled to meet you all in September but in the meantime, if you have
+any questions please do not hesitate to drop us a message.
+
+Our socials:
+
+- Facebook: https://www.facebook.com/groups/25574485662
+- Instagram: https://www.instagram.com/uwswp/?hl=en
+- Twitter: https://twitter.com/uwswp
+
+---
+
 Here at Warwick we cater for all abilities and levels of commitment and,
 as we are essentially two sports in one, if you don't like one you can
 always try the other! Whether you are feeling competitive or not, so
