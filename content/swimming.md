@@ -27,7 +27,7 @@ offered, targeting those looking to transition into club swimming.
 These sessions are coordinated by our Development Officer who
 works with the coach to maximise your potential and development.
 
-{{< testimonial name="Lucy" message="I like swimming with the development squad, as it is a fun and relaxed environment, in which there is no judgement. Students coaching students means the sessions are pretty chill but can also be challenging and very social. The coaches also help to improve individual strokes and overall swimming technique." squad="Development Squad Member" img="https://user-images.githubusercontent.com/18099289/181920587-ab4ff0c6-d51a-4bbe-9baa-22ec5c97df88.png" >}}
+{{< testimonial name="Lucy" message="I like swimming with the development squad, as it is a fun and relaxed environment, in which there is no judgement. Students coaching students means the sessions are pretty chill but can also be challenging and very social. The coaches also help to improve individual strokes and overall swimming technique." squad="Development Squad Member" img="https://user-images.githubusercontent.com/18099289/185199436-5c624c2f-9837-4923-859e-66ca6c0910d3.png" >}}
 
 ---
 
