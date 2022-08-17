@@ -40,7 +40,7 @@ for club standard swimmers, however UWSWP club enters various open meets
 throughout the year to give all swimmers the opportunity to compete at a
 range of levels.
 
-{{< testimonial name="James" message="Joining the club has been one of the best things about university. I have felt welcomed to the squad, with training sessions being flexible. It has been a great way to meet people, both in the pool and outside at social events." squad="Club Member" img="https://user-images.githubusercontent.com/18099289/181920510-659d6199-a8b8-4ce8-8d0f-cc73174e8737.png" >}}
+{{< testimonial name="James" message="Joining the club has been one of the best things about university. I have felt welcomed to the squad, with training sessions being flexible. It has been a great way to meet people, both in the pool and outside at social events." squad="Club Member" img="https://user-images.githubusercontent.com/18099289/185199945-57639bbb-4ce4-4cdd-9c87-11521021a5c0.png" >}}
 
 ---
 
