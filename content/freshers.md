@@ -12,11 +12,11 @@ all abilities and offer an amazing mix of training and socials. Super
 thrilled to meet you all in September but in the meantime, if you have
 any questions please do not hesitate to drop us a message.
 
-Our socials:
+---
 
-- Facebook: https://www.facebook.com/groups/25574485662
-- Instagram: https://www.instagram.com/uwswp/?hl=en
-- Twitter: https://twitter.com/uwswp
+{{< button href="mailto:uwswp@gmail.com" msg="Get in touch!" >}}
+
+{{< socials >}}
 
 ---
 
