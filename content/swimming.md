@@ -60,20 +60,9 @@ term 1, BUCS Long Course in term 2, and BUCS Teams in term 3.
 
 ## Meet the coaches
 
-### Dr. Josh Patel (Head Coach)
-
-Josh is back as coach (we don't know why he has not left already, this
-is his eighth year at uni) after a two year sabbatical from the role.
-Josh is a PhD student studying History, and if you hear him mumbling
-something about _'personal development'_ and _'employability'_ whilst he's
-trying to correct your freestyle catch it is best to leave him to it,
-he is desperate to be relevant so he can get an academic job, bless him.
-He is also very thankful he was offered the job as it means he can have
-hot dinners this winter.
+### Lily Miller (Head Coach)
 
 ### Ollie Smith-Machancoses (Development Officer)
-
-Sunt labore duis aliqua culpa sunt reprehenderit ut deserunt dolore. Irure non laboris consectetur qui minim incididunt aute dolor consequat sint ipsum minim minim. Labore eiusmod Lorem eiusmod eu labore ex incididunt.
 
 ## Frequently asked questions
 

@@ -46,32 +46,6 @@ So, if you ever have any questions, would like some advice, or just a general ch
 
 ---
 
-## Sport scholarships
-
-Warwick Sports scholarships enable student-athletes to excel in their sport and in their academics.
-
-The application window for 2022/23 opens on **Friday, August 19th**:
-
-> We are thrilled to be inviting swimming scholarship applications for national and international students. Granting numerous opportunities for you to pursue your interest in WUFF whilst maintaining your dual academic and sporting careers during your time at university. More information on the criteria can be found below:
->
-> To be eligible for the program athletes are required to meet the minimum criteria as stated on the Warwick Sport website;
->
-> - Available for individuals competing for their county or country.
-> - Awarded on an annual basis at the discretion of a panel.
-> - Undergraduates, current students, and postgraduates are welcome to apply.
-> - Open to both national and international students.
-> - Your Sport must include a Sport England recognised governing body to be considered.
->
-> [Application form (link)](#)
->
-> Further information:
->
-> - [Scholarships services](https://warwick.ac.uk/services/sport/active/students-staff/teamwarwick/performance/scholarships/services)
->
-> If you have any further questions, please contact <performancesport@warwick.ac.uk>.
-
----
-
 ## Performance sport
 
 We are delighted to be awarded _Silver Performance Sport_ here at Warwick University. Thus offering an environment where teams and individuals endure outstanding accomplishments as WarwickSports aids in our further development into high-performing student-athletes to maximise our student sporting experience.
