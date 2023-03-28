@@ -28,7 +28,7 @@ The club has been a key part of our time at uni providing fun, fitness, life lon
 
 This year's exec is a wonderful bunch of enthusiastic, not to mention good looking, people who want to make your experience at UWSWP as awesome as it can possibly be. These are the people who will look out for you and will probably become some of your best friends over your years at Warwick.
 
-So, if you ever have any questions, would like some advice, or just a general chat, they are here to help! Below is an outline of all of the positions and those who are filling them this year, as well as links to their Facebook pages. Enjoy!
+So, if you ever have any questions, would like some advice, or just a general chat, they are here to help! Below is an outline of all of the positions and those who are filling them this year.
 
 - Jack Turrell (Swimming President)
 - Milly Tobin (Water Polo President)
