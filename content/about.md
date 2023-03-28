@@ -30,19 +30,18 @@ This year's exec is a wonderful bunch of enthusiastic, not to mention good looki
 
 So, if you ever have any questions, would like some advice, or just a general chat, they are here to help! Below is an outline of all of the positions and those who are filling them this year, as well as links to their Facebook pages. Enjoy!
 
-- Adam Evens (Swimming President)
-- Freya Slaney-Parker (Water Polo President)
-- Jack Turrell (Men's Swimming Captain)
-- Alyssa Basinger (Women's Swimming Captain)
-- Ollie Smith-Machancoses (Development Officer)
-- Team Junior (Men's Water Polo Captain)
-- Abi Taylor (Women's Water Polo Captain)
-- Cameron Mackinnon (Social Sec #1)
-- She Junior (Social Sec #2)
-- Victor Benazech (Treasurer)
-- Sacha Clark-Jones (Secretary)
-- Chloe Plater (Charity & Welfare)
-- Charlotte Malpass (Pubs & Coms)
+- Jack Turrell (Swimming President)
+- Milly Tobin (Water Polo President)
+- James Le Grice (Men's Swimming Captain)
+- Anna Drawer (Women's Swimming Captain)
+- Artemiy Brukhno (Men's Water Polo Captain)
+- Jaya Soni (Women's Water Polo Captain)
+- Faolán Campbell (Treasurer)
+- Tom Oakland (Club Secretary)
+- Oliver Smith-Machancoses (Publicity & Campaigns)
+- Mia Tobin (Welfare Officier)
+- Oli Brand and Katie Cheeseright (Social Secs)
+- Maddy Grantham (Development Officer)
 
 ---
 
