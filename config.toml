@@ -3,9 +3,16 @@ languageCode = 'en-GB'
 title = 'University of Warwick Swimming & Water Polo Club'
 
 [params]
+    # --------------------------- GENERAL ------------------------------------------
+    # General-purpose variables go here
     number_of_active_members = 198
+
     # --------------------------- SOCIAL MEDIA -------------------------------------
     # You can put the usernames of all the society's socials here
     twitter_username = 'uwswp'
     instagram_username = 'uwswp'
     facebook_username = 'WarwickSwim'
+
+    # --------------------------- WELLBEING -----------------------------------------
+    # You can put the URL to the wellbeing form here
+    wellbeing_form = 'https://docs.google.com/forms/d/e/1FAIpQLSd0rPWCJ6iY8NpLCjzzwgA9VINNMf079i1YsZwkFTAUL9uqrQ/viewform'
