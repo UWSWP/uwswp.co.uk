@@ -1,39 +1,26 @@
-baseURL = 'https://uwswp.co.uk/'
-languageCode = 'en-GB'
-title = 'University of Warwick Swimming & Water Polo Club'
+baseURL = "https://uwswp.co.uk/"
+languageCode = "en-GB"
+title = "University of Warwick Swimming & Water Polo Club"
+mainSections = [ "news",]
 
 [params]
-    # --------------------------- GENERAL ------------------------------------------
-    # General-purpose variables go here
-    number_of_active_members = 198
-
-    # --------------------------- SOCIAL MEDIA -------------------------------------
-    # You can put the usernames of all the society's socials here
-    twitter_username =   'uwswp'
-    instagram_username = 'uwswp'
-    facebook_username =  'WarwickSwim'
-
-    # --------------------------- WELLBEING -----------------------------------------
-    # You can put the URL to the wellbeing form here
-    wellbeing_form = 'https://docs.google.com/forms/d/e/1FAIpQLSd0rPWCJ6iY8NpLCjzzwgA9VINNMf079i1YsZwkFTAUL9uqrQ/viewform'
-
-    # --------------------------- COACHES -------------------------------------------
-    swimming_coach = 'Lily Miller'
-    swimming_coach_description = 'Ipsum pariatur nulla veniam cillum ipsum.'
-    development_officer_description = 'TBD'
-
-    # --------------------------- EXEC ----------------------------------------------
-    swimming_president =       'Jack Turrell'
-    water_polo_president =     'Milly Tobin'
-    men_swimming_captain =     'James Le Grice'
-    women_swimming_captain =   'Anna Drawer'
-    men_water_polo_captain =   'Artemiy Brukhno'
-    women_water_polo_captain = 'Jaya Soni'
-    treasurer =                'Faolán Campbell'
-    secretary =                'Tom Oakland'
-    publicity_officer =        'Oliver Smith-Machancoses'
-    welfare_officer  =         'Mia Tobin'
-    social_secs =              'Oli Brand and Katie Cheeseright'
-    development_officer =      'Maddy Grantham'
-
-mainSections = ["news"]
+number_of_active_members = "198"
+twitter_username = "uwswp"
+instagram_username = "uwswp"
+facebook_username = "WarwickSwim"
+wellbeing_form = "https://docs.google.com/forms/d/e/1FAIpQLSd0rPWCJ6iY8NpLCjzzwgA9VINNMf079i1YsZwkFTAUL9uqrQ/viewform"
+swimming_coach = "Lily Miller"
+swimming_coach_description = "TBD"
+development_officer_description = "TBD"
+swimming_president = "Jack Turrell"
+water_polo_president = "Milly Tobin"
+men_swimming_captain = "James Le Grice"
+women_swimming_captain = "Anna Drawer"
+men_water_polo_captain = "Artemiy Brukhno"
+women_water_polo_captain = "Jaya Soni"
+treasurer = "Faolán Campbell"
+secretary = "Tom Oakland"
+publicity_officer = "Oliver Smith-Machancoses"
+welfare_officer = "Mia Tobin"
+social_secs = "Oli Brand and Katie Cheeseright"
+development_officer = "Maddy Grantham"
