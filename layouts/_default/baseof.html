@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>{{ block "title" . }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+    {{ partial "seo.html" . }}
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
