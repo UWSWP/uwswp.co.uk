@@ -2,9 +2,7 @@ name: populate website
 
 on:
   push:
-    branches: ['main']
-    paths: ['.github/website.csv']
-  pull_request:
+    paths: ['.github/populate_website/website.csv']
 
 jobs:
   populate-website:
