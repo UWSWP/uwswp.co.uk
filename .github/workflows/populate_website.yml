@@ -1,0 +1,44 @@
+name: populate website
+
+on:
+  push:
+    paths: ['.github/populate_website/website.csv']
+
+jobs:
+  populate-website:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Checkout auto-populate-website branch 
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout -b auto-populate-website
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11.3'
+
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r .github/populate_website/requirements.txt
+
+      - name: Covert CSV to TOML
+        run: python .github/populate_website/main.py
+
+      - name: Commit changes to Hugo config
+        run: |
+          git add -A
+          git commit -m "Populate website with updates from CSV file" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto-populate-website
