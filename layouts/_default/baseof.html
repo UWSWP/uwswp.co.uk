@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{{ block "title" . }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma-social@2/css/all.min.css"
+    />
+    {{ $css := "css/main.css" | relURL }}
+    <link rel="stylesheet" href="{{ $css }}" />
+  </head>
+
+  <body>
+    {{ block "main" . }}{{ end }}
+  </body>
+</html>

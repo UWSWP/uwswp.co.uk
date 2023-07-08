@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+{{ partial "nav.html" . }}
+
+  <section class="hero is-medium grey">
+    <div class="hero-body has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title">{{ .Title }}</h1>
+        <p class="subtitle">{{ .Page.Params.Subtitle }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="content container is-max-desktop">
+        <div class="container" role="main">
+            <main>
+                {{ .Content }}
+            
+                {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+                {{ range $pages.GroupByPublishDate "2006-01" }}
+                    {{ range sort .Pages "PublishDate" "asc" }}
+                    {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+                    {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                        <div class="columns">
+                            <div class="column">
+                                <h3>
+                                    <a href="{{.Page.Params.redirect_url}}">{{.Title}}</a>
+                                </h3>
+                                <p><time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time></p>
+                            </div>
+                            <div class="column">
+                              <a href="{{.Page.Params.redirect_url}}"><img src="/img/news/{{.Page.Params.img}}" alt=""></a>
+                            </div>
+                        </div>
+                    {{end}}
+                {{end}}
+            </main>
+        </div>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+
+  <script
+    type="module"
+    src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+  ></script>
+  <script
+    nomodule
+    src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+  ></script>
+  <script>
+    document
+      .querySelector(".navbar-burger")
+      .addEventListener("click", function (e) {
+        e.target.classList.toggle("is-active");
+        document.querySelector(".navbar-menu").classList.toggle("is-active");
+      });
+  </script>
+  <script
+    async
+    defer
+    src="https://scripts.simpleanalyticscdn.com/latest.js"
+  ></script>
+  <noscript
+    ><img
+      src="https://queue.simpleanalyticscdn.com/noscript.gif"
+      alt=""
+      referrerpolicy="no-referrer-when-downgrade"
+  /></noscript>
+
+{{ end }}
