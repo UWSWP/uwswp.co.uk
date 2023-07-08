@@ -30,7 +30,7 @@ competitive swimmers - we cater for all abilities!
 Swimming competes in two major BUCS competitions and one main team event
 each season as well as various other galas.
 
-Water Polo has two male teams and one female team who compete in a
+Water Polo has a male and female team who compete in a
 knock-out cup as well as a league-based championship; all of our teams
 average a game a week during Terms 1 and 2.
 

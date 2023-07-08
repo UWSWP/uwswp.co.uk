@@ -36,15 +36,14 @@ So, if you ever have any questions, would like some advice, or just a general ch
 
 ## Performance sport
 
-We are delighted to be awarded _Silver Performance Sport_ here at Warwick University. Thus offering an environment where teams and individuals endure outstanding accomplishments as WarwickSports aids in our further development into high-performing student-athletes to maximise our student sporting experience.
+We have been given the _Performance Development Programme_ by Warwick Sport this year. This offers an environment where teams and individuals endure outstanding accomplishments as Warwick Sport aids in our further development into high-performing student-athletes to maximise our student sporting experience.
 
-### Silver-tiered pathway
+### Performance Development Programme
 
-We are delighted to be awarded Silver Performance Sport here at Warwick University. Offering an environment where teams and individuals endure outstanding accomplishments as WarwickSports aids in our further development into high-performing student-athletes to maximise our student sporting experience.
+The programme grants us various opportunities and benefits:
 
-- Silver Tiered Pathway (WarwickSports, 2022)
-  - Generic strength and conditioning programme based on the needs of the sport
-  - Physiotherapy, nutrition and psychology support
-  - Year long support and development (preseason, in-season, with a generic offseason programme)
-  - Financial contribution to go towards high level coaching
-  - Ongoing mentorship and guidance from performance team
+- Performance Development Programme (Warwick Sport, 2023)
+  - Weekly multi-sport hall based Strength and Conditioning sessions
+  - A bespoke club gym programme available
+  - Opportunity to attend generic support service workshops (nutrition, psychology, lifestyle)
+  - Long-term performance planning mentorship to support transition to performance
