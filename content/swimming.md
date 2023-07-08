@@ -27,6 +27,8 @@ offered, targeting those looking to transition into club swimming.
 These sessions are coordinated by our Development Officer who
 works with the coach to maximise your potential and development.
 
+![BUSL 2023 team](/img/busl_team_2023.jpg)
+
 {{< testimonial name="Lucy" message="I like swimming with the development squad, as it is a fun and relaxed environment, in which there is no judgement. Students coaching students means the sessions are pretty chill but can also be challenging and very social. The coaches also help to improve individual strokes and overall swimming technique." squad="Development Squad Member" img="https://user-images.githubusercontent.com/18099289/185199436-5c624c2f-9837-4923-859e-66ca6c0910d3.png" >}}
 
 ---
@@ -47,12 +49,13 @@ range of levels.
 ## 🐋 Competitive swimming
 
 The Competitive Squad gives you an opportunity to train **up to 9 times
-a week** (including various gym sessions), led by our **coach Josh
-Patel**. Josh works with the captains to produce a 10-week training
-cycle targeting the major university competitions—BUCS Short Course in
-term 1, BUCS Long Course in term 2, and BUCS Teams in term 3.
+a week** (including various gym sessions), led by our **coach
+{{<swimming-coach>}}**. Our head coach works with the captains to
+produce a 10-week training cycle targeting the major university
+competitions—BUCS Short Course in term 1, BUCS Long Course in term 2,
+and BUCS Teams in term 3.
 
-![BUCS Short Course 2021 team](https://user-images.githubusercontent.com/18099289/181918377-88f3712a-7672-4840-b201-0b725bd75826.jpeg)
+![BUCS Short Course 2022 team](/img/bucs_team_2022.jpg)
 
 {{< testimonial name="James LG" message="WUFF sessions are really flexible and interesting compared to most programs, so you can really get whatever you want out of the club." squad="Competitive Squad Member & British Swimming Championships Athlete (2022)" img="https://user-images.githubusercontent.com/18099289/183985793-8b56bda5-0467-4a41-a6e4-2d3f31bfbbf9.png" >}}
 
@@ -60,9 +63,7 @@ term 1, BUCS Long Course in term 2, and BUCS Teams in term 3.
 
 ## Meet the coaches
 
-### Lily Miller (Head Coach)
-
-### Ollie Smith-Machancoses (Development Officer)
+{{< coaches >}}
 
 ## Frequently asked questions
 
