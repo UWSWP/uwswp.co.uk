@@ -15,6 +15,12 @@ jobs:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Checkout auto-populate-website branch 
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout -b auto-populate-website
+
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -30,9 +36,6 @@ jobs:
 
       - name: Commit changes to Hugo config
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git checkout -b auto-populate-website
           git add -A
           git commit -m "Populate website with updates from CSV file" -a
 
