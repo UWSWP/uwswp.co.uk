@@ -28,6 +28,7 @@
                                     <a href="{{.Page.Params.redirect_url}}">{{.Title}}</a>
                                 </h3>
                                 <p><time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time></p>
+                                <a href="{{.Page.Params.redirect_url}}" class="button">Read article <ion-icon name="chevron-forward-outline"></ion-icon></a>
                             </div>
                             <div class="column">
                               <a href="{{.Page.Params.redirect_url}}"><img src="/img/news/{{.Page.Params.img}}" alt=""></a>
