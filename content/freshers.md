@@ -3,7 +3,7 @@ title: Freshers
 subtitle: Congratulations on earning a place at Warwick!
 ---
 
-![](https://user-images.githubusercontent.com/18099289/184671824-af9cc3de-912c-401a-83df-e22e74e4f965.png)
+![](/img/freshers_banner.png)
 
 **Congratulations to all freshers receiving their A-level results and
 acceptance into Warwick!** If you are looking for the complete university
