@@ -18,9 +18,23 @@ title = 'University of Warwick Swimming & Water Polo Club'
     wellbeing_form = 'https://docs.google.com/forms/d/e/1FAIpQLSd0rPWCJ6iY8NpLCjzzwgA9VINNMf079i1YsZwkFTAUL9uqrQ/viewform'
 
     # --------------------------- COACHES -------------------------------------------
-    swimming_coach = 'Lily Miller'
-    swimming_coach_description = 'Ipsum pariatur nulla veniam cillum ipsum.'
-    development_officer_description = 'TBD'
+    swimming_coach = 'TBD'
+    swimming_coach_description = 'TBD'
+
+    development_officer_description = """
+    Heya, I'm Maddy and I am a 2nd year Law student. Quick fact file on me:
+    I have been swimming practically my whole life and have competed at a
+    multiple times at a national level. Development squad is a great
+    alternative to club swimming, especially for swimmers who feel less
+    confident in their abilities or simply want to come along for the social
+    aspect. Joining the development side of the club is a great way to get
+    involved without as much pressure. Dev have 5 training times a week, but
+    it completely up to you what kind of dedication you put into it. We
+    heartily encourage those swimmers with higher competence to try out Club
+    and even Waterpolo. Or you could mix and match! You will find that UWSWP
+    has an amazingly supportive atmosphere and that myself and the other
+    exec/coaches are there only to help and bolster you lot.
+    """
 
     # --------------------------- EXEC ----------------------------------------------
     swimming_president =       'Jack Turrell'
