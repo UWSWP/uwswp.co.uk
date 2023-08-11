@@ -3,7 +3,7 @@ title: Freshers
 subtitle: Congratulations on earning a place at Warwick!
 ---
 
-![](https://user-images.githubusercontent.com/18099289/184671824-af9cc3de-912c-401a-83df-e22e74e4f965.png)
+![](/img/freshers_banner.png)
 
 **Congratulations to all freshers receiving their A-level results and
 acceptance into Warwick!** If you are looking for the complete university
@@ -30,7 +30,7 @@ competitive swimmers - we cater for all abilities!
 Swimming competes in two major BUCS competitions and one main team event
 each season as well as various other galas.
 
-Water Polo has two male teams and one female team who compete in a
+Water Polo has a male and female team who compete in a
 knock-out cup as well as a league-based championship; all of our teams
 average a game a week during Terms 1 and 2.
 
