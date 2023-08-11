@@ -18,8 +18,12 @@ title = 'University of Warwick Swimming & Water Polo Club'
     wellbeing_form = 'https://docs.google.com/forms/d/e/1FAIpQLSd0rPWCJ6iY8NpLCjzzwgA9VINNMf079i1YsZwkFTAUL9uqrQ/viewform'
 
     # --------------------------- COACHES -------------------------------------------
-    swimming_coach = 'TBD'
-    swimming_coach_description = 'TBD'
+    swimming_coach = 'Josh Simpson'
+    swimming_coach_description = """
+    Josh is currently a Swimming Coach and Secondary School Teacher based in Leicestershire and is keen to get more
+    hours of coaching on poolside. Josh is looking forward to the opportunity to coach UWSWP and we look forward to 
+    working with him throughout the season.
+    """
 
     development_officer_description = """
     Heya, I'm Maddy and I am a 2nd year Law student. Quick fact file on me:
