@@ -53,32 +53,10 @@
                 >
                   Welfare
                 </a>
-                <!-- <div class="navbar-item has-dropdown is-hoverable">
-                  <a class="navbar-link"> More </a>
-
-                  <div class="navbar-dropdown">
-                    <a href="/socials" class="navbar-item"> Socials </a>
-                    <a href="/charity" class="navbar-item"> Charity </a>
-                    <a href="/sponsor" class="navbar-item"> Sponsorship </a>
-                    <a href="/images" class="navbar-item"> Images </a>
-                    <a href="/news" class="navbar-item"> News & Events </a>
-                    <hr class="navbar-divider" />
-                    <a href="/login" class="navbar-item"> Login </a>
-                  </div>
-                </div> -->
               </div>
 
               <div class="navbar-end">
-                <div class="navbar-item">
-                  <div class="buttons">
-                    <a href="/contact" class="button">Contact Us</a>
-                    <a
-                      href="https://www.warwicksu.com/societies-sports/sports-clubs/swimming/#org-join"
-                      class="button is-white"
-                      >Buy Sports Membership</a
-                    >
-                  </div>
-                </div>
+                <a href="/contact" class="navbar-item">Contact Us</a>
               </div>
             </div>
           </div>
@@ -89,18 +67,25 @@
         <div class="container">
           <div class="columns is-vcentered">
             <div class="column">
+              <img style="height: 110px;"
+                  src="https://user-images.githubusercontent.com/18099289/181894615-d139e2c1-ccea-4c94-9749-0092d3a02313.png"
+                />
               <h1 class="title">UNIVERSITY OF WARWICK SWIMMING & WATER POLO</h1>
               <p class="subtitle">
-                Welcoming swimming & water polo players of all skill levels at
-                the University of Warwick
+                Swimming & water polo of all skill levels
               </p>
-              <a
+              <div class="field">
+                <a
                 href="https://www.warwicksu.com/societies-sports/sports-clubs/swimming/#org-join"
-                class="button is-white"
+                class="button is-white button-main"
                 target="_blank"
                 rel="noopener"
-                >Buy Sports Membership</a
+                >Join the team &rarr;</a
               >
+              </div>
+              <div class="field">
+                <small style="color:rgb(200, 200, 200)">Sarting at £129 annually<sup>&#10013;</sup></small>
+              </div>
             </div>
             <div class="column">
               <img src="/img/swimmer.png" alt="" />
@@ -120,41 +105,217 @@
       </div>
     </section>
 
-    <img src="/img/start.webp" alt="" />
+    <!--========================================================
+      Latest News
+    =========================================================-->
+
+    <section class="section is-small has-background-light">
+      <div class="content container is-max-desktop">
+        <div class="field top">
+          <b>LATEST NEWS</b>
+          <h1>WHAT'S GOING ON AT UWSWP</h1>
+        </div>
+        <div class="columns">
+          {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections | first 3 }}
+          {{ range $pages.GroupByPublishDate "2006-01" }}
+              {{ range sort .Pages "PublishDate" "asc" }}
+              {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+              {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                <div class="column">
+                  <a href="{{.Page.Params.redirect_url}}">
+                    <div class="field">
+                      <img class="news-image" src="/img/news/{{.Page.Params.img}}" alt="">
+                    </div>
+                    <b>{{.Title}}</b>
+                  </a>
+                </div>
+              {{end}}
+          {{end}}
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="has-text-centered">
+          <a href="/news" class="button join is-black is-outlined">More news &rarr;</a>
+        </div>
+      </div>
+    </section>
 
     <section class="section is-medium">
       <div class="content container is-max-desktop">
-        <img src="/img/banner.png" alt="" />
-        <h1>We are WUFF</h1>
+        <!-- <img src="/img/banner.png" alt="" /> -->
+        <div class="field top">
+          <b>ABOUT US</b>
+          <h1>WE ARE WUFF</h1>
+        </div>
         <p>
-          We are a diverse and exciting club full of opportunities for people of
-          all abilities so don't be afraid to come along and see what you are
-          made of! From fantastic socials, to charity events, inter sports club
-          activities and even our annual domestic and foreign tours - our club
-          is friendly, fun and is one of the largest clubs on campus. Here you
-          will always feel welcome, whether you're a seasoned veteran or a brand
-          new fresher! The club has been a key part of our time at uni providing
-          fun, fitness, life long friends and support. It will become your
-          extended family, and we hope you will join us too. So what are you
-          waiting for? Jump in and become a WUFF member for life!
+          Join our diverse and exciting club for all abilities and
+          unlock your potential. We offer fantastic social events,
+          charity activities, inter-sports club events, and annual
+          domestic and international tours. With a friendly and fun
+          atmosphere, we're one of the largest clubs on campus. Whether
+          you're experienced or new, you'll always feel welcome here.
+          Our club enriches your university experience, providing
+          enjoyment, fitness, lifelong friendships, and support. Be a
+          part of our extended family - become a lifelong WUFF member
+          today!
         </p>
 
         <div class="has-text-centered">
           <a
             class="button join is-link"
-            href="https://www.warwicksu.com/societies-sports/sports-clubs/swimming/#org-join"
+            href="/about"
           >
-            Buy Sports Membership
-            <ion-icon name="chevron-forward-outline"></ion-icon>
+            Learn more
+            &rarr;
           </a>
           <a class="button join is-white" href="mailto:uwswp@gmail.com">
-            Contact us <ion-icon name="chevron-forward-outline"> </ion-icon>
+            Contact us &rarr;
           </a>
         </div>
       </div>
     </section>
 
+    <section class="hero has-background-light testimonial">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
+          <p class="subtitle">
+            <span class="font-bold has-text-link is-size-5">&#8220; </span>I
+            like swimming with the development squad, as it is a fun and relaxed
+            environment, in which there is no judgement. Students coaching
+            students means the sessions are pretty chill but can also be
+            challenging and very social. The coaches also help to improve
+            individual strokes and overall swimming technique.<span
+              class="font-bold has-text-link is-size-5"
+            >
+              &#8221;</span
+            >
+          </p>
+          <div
+            class="is-flex is-align-items-center is-justify-content-start mt-4"
+          >
+            <div class="image is-48x48">
+              <img
+                alt="profil"
+                src="https://user-images.githubusercontent.com/18099289/185199436-5c624c2f-9837-4923-859e-66ca6c0910d3.png"
+                class="is-rounded"
+              />
+            </div>
+            <div
+              class="is-flex is-flex-direction-column ml-2 is-align-content-space-between"
+            >
+              <span class="font-semibold has-text-weight-bold"> Lucy </span>
+              <span
+                class="is-size-7 is-flex is-align-items-center has-text-link"
+              >
+                Development Squad
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="content container is-max-desktop">
+        <div class="columns is-vcentered">
+          <div class="column">
+            <div class="top">
+              <b>ATHLETE HIGHLIGHT</b>
+              <h1>MEET JAMES LE GRICE</h1>
+            </div>
+              <p>James Le Grice, a dedicated and accomplished swimmer,
+              began their competitive journey at the age of 8. After a
+              brief hiatus, they rediscovered their passion for swimming
+              upon joining Warwick.</p>
+              <p>Currently pursuing a BSc in Mathematics, James aspires
+              to forge a career in the finance industry. Their
+              analytical mindset, honed through academic pursuits,
+              complements their swimming endeavors, driving them to
+              constantly refine their skills and strive for excellence
+              both in and out of the pool.</p>    
+              
+              <b>Noteworthy accomplishments:</b>
+              <ul>
+                <li>8th British Summer Championships 2022 (50m Butterfly)</li>
+                <li>22nd British Swimming Commonwealth Trials 2022 (50m Butterfly)</li>
+                <li>11th BUCS Long Course (50m Backstroke)</li>
+              </ul>
+          </div>
+          <div class="column">
+            <img src="/img/james_le_grice.jpg" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="section is-medium has-background-light">
+      <div class="content container is-max-desktop">
+        <div class="columns is-vcentered">
+          <div class="column">
+            <img src="/img/swimmer.webp" alt="" class="shadow" />
+          </div>
+          <div class="column has-text-centered">
+            <h1 class="title">🏊 🤽</h1>
+            <p>
+              Whether you are new to swimming or water polo, or looking to
+              perfect your sport and compete at a high-level, you have come to
+              the right place. Join us and jump in!
+            </p>
+
+            <a
+              href="https://www.warwicksu.com/societies-sports/sports-clubs/swimming/#org-join"
+              class="button join is-link"
+              >Buy sports membership &rarr;</a>
+
+            <figure>
+              <p>
+                <ion-icon name="checkmark-circle" class="green"></ion-icon>
+                Inclusive training environment
+              </p>
+              <p>
+                <ion-icon name="checkmark-circle" class="green"></ion-icon> Open
+                to all levels and abilities
+              </p>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="content container is-max-desktop">
+        <div class="columns is-vcentered">
+          <div class="column">
+            <div class="top">
+              <b>ATHLETE HIGHLIGHT</b>
+              <h1>MEET ISOBEL JAMES</h1>
+            </div>
+            <p>Isobel James, a skilled water polo player, represented
+            the University of Warwick's women's first team while
+            pursuing her BSc in Economics. With a background in
+            swimming, Isobel seamlessly transitioned into water polo,
+            finding the sport to be a natural fit. Under the guidance of
+            supportive coaches and experienced teammates, she developed
+            her skills and thrived in the training sessions.</p>
+            <p>Competing both in friendly matches against local clubs
+            and in the BUCS Midlands League 1, Isobel proudly
+            represented Team Warwick. The camaraderie within the team
+            was exceptional, and the encouragement from the university
+            community during matches and Varsity events was motivating.
+            Water polo provided Isobel with not only intense training
+            and competitive matches but also valuable opportunities to
+            form lasting friendships and socialise with diverse
+            individuals from across the university.</p>        
+          </div>
+          <div class="column">
+            <img src="/img/isobel.png" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- <section class="section is-medium has-background-light">
       <div class="content container stat">
         <div class="columns">
           <div class="column">
@@ -191,63 +352,32 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="section is-medium">
-      <div class="content container is-max-desktop">
-        <div class="columns is-vcentered">
-          <div class="column">
-            <img src="/img/swimmer.webp" alt="" class="shadow" />
-          </div>
-          <div class="column has-text-centered">
-            <h1 class="title">🏊 🤽</h1>
-            <p>
-              Whether you are new to swimming or water polo, or looking to
-              perfect your sport and compete at a high-level, you have come to
-              the right place. Join us and jump in!
-            </p>
-
-            <a
-              href="https://www.warwicksu.com/societies-sports/sports-clubs/swimming/#org-join"
-              class="button join is-link"
-              >Buy Sports Membership
-              <ion-icon name="chevron-forward-outline"></ion-icon
-            ></a>
-
-            <figure>
-              <p>
-                <ion-icon name="checkmark-circle" class="green"></ion-icon>
-                Inclusive training environment
-              </p>
-              <p>
-                <ion-icon name="checkmark-circle" class="green"></ion-icon> Open
-                to all levels and abilities
-              </p>
-            </figure>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="hero is-medium goggles">
+    <section class="hero is-medium has-background-light">
       <div class="hero-body">
         <div class="container">
           <div class="columns is-vcentered">
             <div class="column content">
-              <h1 class="title purple">Water Polo</h1>
+              <div class="top">
+                <b>ALL SKILL LEVELS</b>
+                <h1>Water Polo</h1>
+              </div>
               <p>
-                Water polo at Warwick offers not only competition and training
-                at the highest university level, but also a fantastic social
-                team atmosphere for players of all levels of ability. From
-                players competing in the British National League and European
-                semi-professionals who trained in the youth divisions of the
-                world’s best clubs to complete novices who never held a water
-                polo ball before joining, we are a diverse group united by our
-                strong bond to our sport and team.
+                Water polo at Warwick offers not just high-level
+                university competition and training, but also a
+                fantastic social team atmosphere for players of all
+                abilities. Our team consists of a diverse group, ranging
+                from players competing in the British National League
+                and European semi-professionals with youth training from
+                top clubs worldwide, to complete novices who have never
+                held a water polo ball before joining. Despite our
+                varying backgrounds, we are united by a strong bond to
+                our sport and team.
               </p>
               <a href="/water-polo" class="button join is-link"
                 >Learn more
-                <ion-icon name="chevron-forward-outline"></ion-icon>
+                &rarr;
               </a>
             </div>
             <div class="column has-text-centered">
@@ -258,7 +388,7 @@
       </div>
     </section>
 
-    <section class="section">
+    <!-- <section class="section">
       <div class="content container is-max-desktop">
         <div class="columns is-vcentered">
           <div class="column has-text-centered">
@@ -266,7 +396,7 @@
               <img src="img/wellfare.webp" />
             </figure>
             <p>
-              Concerned about your and your peers' wellbeing? Fill the Anonymous
+              Concerned about your and your peers' wellbeing? Fill the anonymous
               welfare form.
             </p>
 
@@ -281,49 +411,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="hero has-background-light testimonial">
-      <div class="hero-body">
-        <div class="container is-max-desktop">
-          <p class="subtitle">
-            <span class="font-bold has-text-link is-size-5">&#8220; </span>I
-            like swimming with the development squad, as it is a fun and relaxed
-            environment, in which there is no judgement. Students coaching
-            students means the sessions are pretty chill but can also be
-            challenging and very social. The coaches also help to improve
-            individual strokes and overall swimming technique.<span
-              class="font-bold has-text-link is-size-5"
-            >
-              &#8221;</span
-            >
-          </p>
-          <div
-            class="is-flex is-align-items-center is-justify-content-start mt-4"
-          >
-            <a href="#" class="image is-48x48">
-              <img
-                alt="profil"
-                src="https://user-images.githubusercontent.com/18099289/185199436-5c624c2f-9837-4923-859e-66ca6c0910d3.png"
-                class="is-rounded"
-              />
-            </a>
-            <div
-              class="is-flex is-flex-direction-column ml-2 is-align-content-space-between"
-            >
-              <span class="font-semibold has-text-weight-bold"> Lucy </span>
-              <span
-                class="is-size-7 is-flex is-align-items-center has-text-link"
-              >
-                Development Squad
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
+    <!-- <section class="section">
       <div class="content container is-max-desktop has-text-centered">
         <h1>Follow us!</h1>
         <p>Follow UWSWP on all the socials to stay up to date</p>
@@ -363,6 +453,83 @@
           </span>
           <span>Twitter</span>
         </a>
+      </div>
+    </section> -->
+
+    <section class="section">
+      <div class="content container is-max-desktop">
+        <div class="top">
+          <b>FIND US</b>
+          <h1>WHERE THE TEAM TRAINS</h1>
+        </div>
+        <div class="columns">
+          <div class="column">
+            <img src="https://warwick.ac.uk/services/sport/active/hub/pool.jpg" alt="">
+          </div>
+          <div class="column">
+            <div class="map-responsive">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2204.694776001403!2d-1.5710503158269484!3d52.377536863607645!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdcfc3b01eb15b2ff!2sSports%20and%20Wellness%20Hub!5e0!3m2!1sen!2suk!4v1629904054418!5m2!1sen!2suk"
+                width="600"
+                height="450"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+
+        <p>Our swimming team trains at the state-of-the-art University
+        of Warwick's Sports and Wellness Hub. Our training facility
+        boasts a 25-meter swimming pool equipped with 12 lanes,
+        providing ample space for our dedicated swimmers and
+        water-polo players.</p>
+        <a href="https://warwick.ac.uk/services/sport/swimming" class="button join is-link"
+          >Learn more
+          &rarr;
+        </a>
+      </div>
+    </section>
+
+    <section class="section grid">
+      <div class="container is-fluid">
+        <div class="columns">
+          <div class="column">
+            <img src="/img/trio.png">
+            <img src="/img/team.jpg">
+            <!-- <img src="https://source.unsplash.com/700x600/?cat"> -->
+          </div>
+          <div class="column">
+            <img src="/img/james_bus.jpg">
+            <!-- <img src="https://source.unsplash.com/800x750/?nature,water"> -->
+          </div>
+          <div class="column">
+            <img src="/img/rob.jpg">
+            <!-- <img src="https://source.unsplash.com/800x700/?nature,water"> -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section partnership has-text-centered">
+      <div class="content container is-max-desktop">
+        <div class="field">
+          <p>IN PARTNERSHIP WITH</p>
+        </div>
+        <div class="field">
+          <div class="columns is-mobile is-centered">
+            <div class="column is-narrow">
+              <img src="/img/akuma.png">
+            </div>
+            <div class="column is-narrow">
+              <img src="/img/ey.png">
+            </div>
+            <div class="column is-narrow">
+              <img src="/img/warwick_logo.png">
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
