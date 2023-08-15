@@ -39,6 +39,8 @@ title = 'University of Warwick Swimming & Water Polo Club'
     has an amazingly supportive atmosphere and that myself and the other
     exec/coaches are there only to help and bolster you lot.
     """
+    waterpolo_coach = 'Rob'
+    waterpolo_coach_description = 'Rob is our cheery yet disciplined head coach.'
 
     # --------------------------- EXEC ----------------------------------------------
     swimming_president =       'Jack Turrell'
@@ -51,7 +53,8 @@ title = 'University of Warwick Swimming & Water Polo Club'
     secretary =                'Tom Oakland'
     publicity_officer =        'Oliver Smith-Machancoses'
     welfare_officer  =         'Mia Tobin'
-    social_secs =              'Oli Brand and Katie Cheeseright'
+    social_sec1 =              'Oli Brand'
+    social_sec2 =              'Katie Cheeseright'
     development_officer =      'Maddy Grantham'
 
 mainSections = ["news"]
