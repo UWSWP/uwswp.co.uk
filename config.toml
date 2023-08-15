@@ -44,17 +44,42 @@ title = 'University of Warwick Swimming & Water Polo Club'
 
     # --------------------------- EXEC ----------------------------------------------
     swimming_president =       'Jack Turrell'
-    water_polo_president =     'Milly Tobin'
-    men_swimming_captain =     'James Le Grice'
-    women_swimming_captain =   'Anna Drawer'
-    men_water_polo_captain =   'Artemiy Brukhno'
-    women_water_polo_captain = 'Jaya Soni'
-    treasurer =                'Faolán Campbell'
-    secretary =                'Tom Oakland'
-    publicity_officer =        'Oliver Smith-Machancoses'
-    welfare_officer  =         'Mia Tobin'
-    social_sec1 =              'Oli Brand'
-    social_sec2 =              'Katie Cheeseright'
-    development_officer =      'Maddy Grantham'
+    swimming_president_email = 'jack.turrell@warwick.ac.uk'
+    
+    water_polo_president =       'Milly Tobin'
+    water_polo_president_email = 'milly.tobin@warwick.ac.uk'
+
+    men_swimming_captain =       'James Le Grice'
+    men_swimming_captain_email = 'james.le-grice@warwick.ac.uk'
+
+    women_swimming_captain =       'Anna Drawer'
+    women_swimming_captain_email = 'anna.drawer@warwick.ac.uk'
+
+    men_water_polo_captain =       'Artemiy Brukhno'
+    men_water_polo_captain_email = 'artemiy.brukhno@warwick.ac.uk'
+
+    women_water_polo_captain =       'Jaya Soni'
+    women_water_polo_captain_email = 'jaya.soni@warwick.ac.uk'
+
+    treasurer =       'Faolán Campbell'
+    treasurer_email = 'faolan.campbell@warwick.ac.uk'
+
+    secretary =       'Tom Oakland'
+    secretary_email = 'tom.oakland@warwick.ac.uk'
+
+    publicity_officer =       'Oliver Smith-Machancoses'
+    publicity_officer_email = 'u2146209@live.warwick.ac.uk'
+
+    welfare_officer  =       'Mia Tobin'
+    welfare_officer_email  = 'mia.tobin@warwick.ac.uk'
+
+    social_sec1 =       'Oli Brand'
+    social_sec1_email = 'oli.brand@warwick.ac.uk'
+
+    social_sec2 =       'Katie Cheeseright'
+    social_sec2_email = 'katie.cheeseright@warwick.ac.uk'
+
+    development_officer =       'Maddy Grantham'
+    development_officer_email = 'maddy.grantham@warwick.ac.uk'
 
 mainSections = ["news"]
