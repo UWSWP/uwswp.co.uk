@@ -14,7 +14,7 @@
   background: #f6f9fc;
 }
 
-a:not(.button):not(.navbar-item) {
+a:not(.button):not(.navbar-item):not(.navbar-burger) {
   color: #000;
 }
 
