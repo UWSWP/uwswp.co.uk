@@ -40,7 +40,10 @@ title = 'University of Warwick Swimming & Water Polo Club'
     exec/coaches are there only to help and bolster you lot.
     """
     waterpolo_coach = 'Rob'
-    waterpolo_coach_description = 'Rob is our cheery yet disciplined head coach.'
+    waterpolo_coach_description = """
+    Rob started his watery career as a springboard diver in Cheltenham but after staying late after training to watch a
+    water polo session he was hooked! He joined the team and made his debut at age 13, progressing through the club and     through to the GB squads. After a break he decided to come back as a coach and has trained GB’s Junior Women’s team     as they prepared for the 2020+1 Junior European Champs. He now coaches both of our water polo teams with enthusiasm     and dedication!
+    """
 
     # --------------------------- EXEC ----------------------------------------------
     swimming_president =       'Jack Turrell'
